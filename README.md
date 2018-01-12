@@ -16,7 +16,11 @@ Section: 7 - Bonus Round!
 <br>
 
 ## Tableau Overview
-Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click. <br>
+Tableau can help anyone see and understand their data. Connect to almost any database, drag and drop to create visualizations, and share with a click. 
+<br>
+<br>
+
+## Download
 Tableau Desktop https://www.tableau.com/products/desktop <br>
 Tableau Online https://www.tableau.com/resource/say-hello-tableau-online
 <br>
