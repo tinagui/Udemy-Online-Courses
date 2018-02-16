@@ -1,1 +1,1 @@
-Python for data science and machine learning bootcamp
+Python for Data Science and Machine Learning Bootcamp
