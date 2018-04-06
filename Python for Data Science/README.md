@@ -1,6 +1,4 @@
-Python for Data Science and Machine Learning Bootcamp
-
-
+# Python for Data Science and Machine Learning Bootcamp
 
 ## Keyboard shortcuts
 Reference: https://gist.github.com/kidpixo/f4318f8c8143adee5b40
